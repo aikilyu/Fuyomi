@@ -5,6 +5,8 @@
 ### Full-featured sheet music reader
 A sheet music reader developed using a mihon fork
 
+Literally IDK what I'm doing. I just think it'd be nice to read pdf music files in my tachiyomi that's why I'm doing this. I think it'd make a good music reader app
+
 *Requires Android 8.0 or higher.*
 
 ## Features
